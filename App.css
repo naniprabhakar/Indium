@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.new{text-align:center;background-color:aqua;}
+marquee{color:red;}
+h1{color:indianred}
+body{text-align:center;color:darkorange;}
+
+
+@media all and (min-width: 480px) {
+    .Login {
+        padding: 60px 0;
+    }
+
+        .Login form {
+            margin: 0 auto;
+            max-width: 320px;
+        }
+}
+
+
